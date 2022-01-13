@@ -8,5 +8,5 @@
 - etc
 
 ### Modo de Preparo
-- aosdijfoas
+- etc...
 - etc...
